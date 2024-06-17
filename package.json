@@ -70,7 +70,7 @@
         "@nx/eslint": "18.2.1",
         "@nx/eslint-plugin": "18.2.1",
         "@nx/jest": "18.2.1",
-        "@nx/js": "18.2.1",
+        "@nx/js": "19.3.0",
         "@nx/next": "18.2.1",
         "@nx/react": "18.2.1",
         "@nx/webpack": "18.2.1",
